@@ -1,1 +1,1 @@
-# software_engineering_practice
+# javascript_practice
